@@ -1,5 +1,7 @@
 # Multi-Agent Tool
 
+![Multi-Agent System Demo](./images/animation.gif)
+
 A Node.js-based multi-agent system that orchestrates different AI agents to handle weather and time-related queries using OpenAI's GPT models.
 
 ## Project Overview
